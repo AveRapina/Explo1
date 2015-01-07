@@ -1,7 +1,3 @@
-My [Coursera-Exploratory-Data-Analysis](https://github.com/AveRapina/Coursera----Exploratory_Data_Analysis) Repository
-
-=======
->>>>>>> 73fe5c675a2db951b302bfd68524bf7a56094d46
 ## Introduction
 
 This assignment uses data from
